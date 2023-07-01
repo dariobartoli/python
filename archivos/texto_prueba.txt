@@ -1,0 +1,25 @@
+aca estoy escribiendo la primer linea
+para hacer el salto de linea use el (\ n)
+que es lo que indica el salto de linea en texto plano
+aca estoy agregando mas lineas
+esta es una quinta linea wow
+agrego una sexta linea con append
+agrego una sexta linea con append
+agrego una sexta linea con append
+ya agregue 1 linea con append
+ya agregue 1 linea con append
+ya agregue 1 linea con append
+ya agregue 1 linea con append
+ya agregue 1 linea con append
+agrego una sexta linea con append
+ya agregue 0 linea con append
+ya agregue 1 linea con append
+ya agregue 2 linea con append
+ya agregue 3 linea con append
+ya agregue 4 linea con append
+agrego una sexta linea con append
+linea 1 agregada con append
+linea 2 agregada con append
+linea 3 agregada con append
+linea 4 agregada con append
+linea 5 agregada con append

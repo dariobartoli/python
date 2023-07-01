@@ -1,0 +1,4 @@
+estamos implemetando un texto a python
+vamos a ver como se lee este texto
+y ver como funciona esta metodologia
+codificación

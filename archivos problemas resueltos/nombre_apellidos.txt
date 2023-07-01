@@ -1,0 +1,20 @@
+Los datos son:
+
+Nombre: dario
+Apellido: bartoli
+----------------
+Nombre: juan
+Apellido: lopez
+----------------
+Nombre: marcos
+Apellido: herrero
+----------------
+Nombre: nestor
+Apellido: mendoza
+----------------
+Nombre: tomas
+Apellido: fonzi
+----------------
+Nombre: camila
+Apellido: zalazar
+----------------
